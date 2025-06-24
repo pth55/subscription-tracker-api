@@ -9,9 +9,6 @@
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Snippets (Code to Copy)](#snippets)
-6. 🔗 [Assets](#links)
-7. 🚀 [More](#more)
-
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -78,7 +75,7 @@ Create a new file named `.env.local` in the root of your project and add the fol
 ```env
 # PORT
 PORT=5500
-SERVER_URL="http://localhost:5500"
+SERVER_URL="http://localhost:3050"
 
 # ENVIRONMENT
 NODE_ENV=development
@@ -108,7 +105,7 @@ EMAIL_PASSWORD=
 npm run dev
 ```
 
-Open [http://localhost:5500](http://localhost:5500) in your browser or any HTTP client to test the project.
+Open [http://localhost:3050](http://localhost:3050) in your browser or any HTTP client to test the project.
 
 ## <a name="snippets">🕸️ Snippets</a>
 
